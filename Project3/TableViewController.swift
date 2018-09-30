@@ -13,6 +13,7 @@ struct Animal {
     var country: String
     var image: UIImage
 }
+//test
 
 class TableViewController: UITableViewController {
     
